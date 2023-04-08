@@ -1,3 +1,3 @@
 # jenkins-farm
 
-It's a example project of https://github.com/immjolnir/jenkinsci.
+It's a example project of [jenkinsci](https://github.com/immjolnir/jenkinsci).
